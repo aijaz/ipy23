@@ -1,6 +1,6 @@
 # Getting Ready for the Class
 
-Python runs on most home computers, including those that run macOS, Windows and Linux. Please install the software described below and [make the payment for the class](https://buy.stripe.com/fZe9BL6vug0AcaA144) if you haven't done so already.
+Python runs on most home computers, including those that run macOS, Windows and Linux. Please install the software described below, if you haven't done so already.
 
 ## Windows
 
